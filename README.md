@@ -1,8 +1,1 @@
-# first-repository
-# kimbaeda
-# StuCafeInfoFo
-# kimbaeda
-# kimbaeda
-# kimbaeda
-# kimbaeda
-# kimbaeda
+# 안녕하세요
